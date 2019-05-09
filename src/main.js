@@ -15,5 +15,5 @@ function appendHtml(el, str) {
   }
 }
 
-var html = '<h1 id="title">Hey All!</h1><span style="display:inline-block; width=100px;">Questions?</span>';
+var html = '<h1 id="title">Questions?</h1>';
 appendHtml(document.body, html); // "body" has two more children - h1 and span.
