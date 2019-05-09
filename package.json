@@ -1,0 +1,24 @@
+{
+  "name": "webpack-bable-intro",
+  "version": "1.0.0",
+  "description": "Intro for webpack and bable",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^4.31.0",
+    "webpack-cli": "^3.3.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timchepeleff/webpack-bable-intro.git"
+  },
+  "author": "Tim Chepeleff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/timchepeleff/webpack-bable-intro/issues"
+  },
+  "homepage": "https://github.com/timchepeleff/webpack-bable-intro#readme"
+}
