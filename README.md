@@ -20,7 +20,7 @@ const x = [1,2,3]
 const y = [...x, 4]
 ```
 
-Browser compatible javascript
+ES5
 ```
 var x = [1,2,3];
 var y = [].concat(x, [4]);
@@ -35,7 +35,7 @@ const favoriteColor = 'Blue';
 `${name}'s favorite color is ${favoriteColor}`
 ```
 
-Browser compatible javascript
+Es5
 ```
 var name = 'Tim';
 var favoriteColor = 'Blue';
@@ -43,11 +43,11 @@ var favoriteColor = 'Blue';
 ```
 
 ES6
-````
+```
 import schedule from 'node-schedule';
 ```
 
-Browser compatible javascript
+ES5
 ```
 const schedule = require('node-schedule');
 ```
